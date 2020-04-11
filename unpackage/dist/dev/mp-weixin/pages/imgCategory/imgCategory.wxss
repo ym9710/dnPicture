@@ -24,14 +24,14 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.category_tab .category_tab_title.data-v-34774f12 {
+.category_tab .category_tab_title.data-v-68b3c57c {
   position: relative;
 }
-.category_tab .category_tab_title .title_inner.data-v-34774f12 {
+.category_tab .category_tab_title .title_inner.data-v-68b3c57c {
     width: 60%;
     margin: 0 auto;
 }
-.category_tab .category_tab_content.data-v-34774f12 {
+.category_tab .category_tab_content.data-v-68b3c57c {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -39,11 +39,11 @@
           flex-wrap: wrap;
   height: calc(100vh - 36px);
 }
-.category_tab .category_tab_content .cate_item.data-v-34774f12 {
+.category_tab .category_tab_content .cate_item.data-v-68b3c57c {
     width: 30%;
     border: 5rpx solid #fff;
 }
-.category_tab .category_tab_content .cate_item image.data-v-34774f12 {
+.category_tab .category_tab_content .cate_item image.data-v-68b3c57c {
       width: 100%;
 }
 

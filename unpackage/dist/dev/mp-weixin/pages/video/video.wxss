@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.video_main.data-v-57b1c789 {
+.video_main.data-v-470bf164 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -35,11 +35,11 @@
           justify-content: center;
   height: calc(100vh - 36px);
 }
-.video_main .video_item.data-v-57b1c789 {
+.video_main .video_item.data-v-470bf164 {
     width: 30%;
     border: 1px solid #fff;
 }
-.video_main .video_item image.data-v-57b1c789 {
+.video_main .video_item image.data-v-470bf164 {
       width: 100%;
 }
 

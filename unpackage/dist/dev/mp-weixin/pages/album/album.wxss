@@ -24,13 +24,13 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.album_bg.data-v-5a906093 {
+.album_bg.data-v-24c125d0 {
   position: relative;
 }
-.album_bg image.data-v-5a906093 {
+.album_bg image.data-v-24c125d0 {
     width: 100%;
 }
-.album_bg .album_info.data-v-5a906093 {
+.album_bg .album_info.data-v-24c125d0 {
     position: absolute;
     width: 100%;
     left: 0;
@@ -48,10 +48,10 @@
     color: #fff;
     padding: 0 15rpx;
 }
-.album_bg .album_info .album_name.data-v-5a906093 {
+.album_bg .album_info .album_name.data-v-24c125d0 {
       font-size: 40rpx;
 }
-.album_bg .album_info .album_btn.data-v-5a906093 {
+.album_bg .album_info .album_btn.data-v-24c125d0 {
       background-color: #d4237a;
       width: 152rpx;
       height: 50rpx;
@@ -63,23 +63,23 @@
               align-items: center;
       border-radius: 10rpx;
 }
-.album_author.data-v-5a906093 {
+.album_author.data-v-24c125d0 {
   padding: 10rpx;
 }
-.album_author .album_author_info.data-v-5a906093 {
+.album_author .album_author_info.data-v-24c125d0 {
     padding: 10rpx 0;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
 }
-.album_author .album_author_info image.data-v-5a906093 {
+.album_author .album_author_info image.data-v-24c125d0 {
       width: 50rpx;
 }
-.album_author .album_author_info .author_name.data-v-5a906093 {
+.album_author .album_author_info .author_name.data-v-24c125d0 {
       margin-left: 15rpx;
       color: #000;
 }
-.album_list.data-v-5a906093 {
+.album_list.data-v-24c125d0 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -87,12 +87,12 @@
           flex-wrap: wrap;
   /* justify-content:space-between; */
 }
-.album_list .album_item.data-v-5a906093 {
+.album_list .album_item.data-v-24c125d0 {
     width: 32%;
     height: 130rpx;
     border: 3rpx solid #fff;
 }
-.album_list .album_item image.data-v-5a906093 {
+.album_list .album_item image.data-v-24c125d0 {
       width: 100%;
       height: 160rpx;
 }

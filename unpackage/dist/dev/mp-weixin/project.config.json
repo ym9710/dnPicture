@@ -9,7 +9,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.9.2",
 	"appid": "touristappid",
-	"projectname": "dnpicture",
+	"projectname": "dnPicture",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {

@@ -24,40 +24,40 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.user_info.data-v-f10f2746 {
+.user_info.data-v-4f6db83c {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
   padding: 20rpx;
 }
-.user_info .user_icon.data-v-f10f2746 {
+.user_info .user_icon.data-v-4f6db83c {
     padding: 0 20rpx;
 }
-.user_info .user_icon image.data-v-f10f2746 {
+.user_info .user_icon image.data-v-4f6db83c {
       width: 88rpx;
       border-radius: 50%;
 }
-.user_info .user_desc .user_name.data-v-f10f2746 {
+.user_info .user_desc .user_name.data-v-4f6db83c {
     color: #000;
     font-weight: 600;
 }
-.user_info .user_desc .user-time.data-v-f10f2746 {
+.user_info .user_desc .user-time.data-v-4f6db83c {
     color: #ccc;
     font-size: 24rpx;
     padding: 10rpx 0;
 }
-.high_img image.data-v-f10f2746 {
+.high_img image.data-v-4f6db83c {
   width: 100%;
   border-bottom: 1rpx solid #eee;
 }
-.user_rank.data-v-f10f2746 {
+.user_rank.data-v-4f6db83c {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
   height: 80rpx;
   border-bottom: 5rpx solid #eee;
 }
-.user_rank .rank.data-v-f10f2746 {
+.user_rank .rank.data-v-4f6db83c {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -71,7 +71,7 @@
     -webkit-flex: 1;
             flex: 1;
 }
-.user_rank .user_collect.data-v-f10f2746 {
+.user_rank .user_collect.data-v-4f6db83c {
     -webkit-box-flex: 1;
     -webkit-flex: 1;
             flex: 1;
@@ -85,35 +85,35 @@
     -webkit-align-items: center;
             align-items: center;
 }
-.album_wrap.data-v-f10f2746 {
+.album_wrap.data-v-4f6db83c {
   padding: 20rpx;
 }
-.album_wrap .album_title.data-v-f10f2746 {
+.album_wrap .album_title.data-v-4f6db83c {
     padding: 10rpx 0;
 }
-.album_wrap .album_list .album_item.data-v-f10f2746 {
+.album_wrap .album_list .album_item.data-v-4f6db83c {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
     padding: 10rpx 0;
     border-bottom: 10rpx solid #000;
 }
-.album_wrap .album_list .album_item .album_cover.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_cover.data-v-4f6db83c {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
               flex: 1;
 }
-.album_wrap .album_list .album_item .album_cover image.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_cover image.data-v-4f6db83c {
         width: 180rpx;
         height: 180rpx;
 }
-.album_wrap .album_list .album_item .album_info.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_info.data-v-4f6db83c {
       -webkit-box-flex: 3;
       -webkit-flex: 3;
               flex: 3;
       padding-left: 20rpx;
 }
-.album_wrap .album_list .album_item .album_info .album_info_text.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_info .album_info_text.data-v-4f6db83c {
         width: 100rpx;
         height: 50rpx;
         background-color: #4CD964;
@@ -125,11 +125,11 @@
         -webkit-align-items: center;
                 align-items: center;
 }
-.album_wrap .album_list .album_item .album_info .album_name.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_info .album_name.data-v-4f6db83c {
         padding: 10rpx 0;
         color: #888;
 }
-.album_wrap .album_list .album_item .album_info .iconfont.data-v-f10f2746 {
+.album_wrap .album_list .album_item .album_info .iconfont.data-v-4f6db83c {
         font-size: 40rpx;
         position: absolute;
         top: 50%;
@@ -138,29 +138,29 @@
         right: 10%;
         color: #000;
 }
-.comment .comment_title.data-v-f10f2746 {
+.comment .comment_title.data-v-4f6db83c {
   padding: 15rpx;
 }
-.comment .comment_title .iconfont.data-v-f10f2746 {
+.comment .comment_title .iconfont.data-v-4f6db83c {
     color: red;
     font-size: 40rpx;
 }
-.comment .comment_title .comment_text.data-v-f10f2746 {
+.comment .comment_title .comment_text.data-v-4f6db83c {
     font-weight: 600;
     font-size: 34rpx;
     color: #666;
     margin-left: 10rpx;
 }
-.comment .comment_list .comment_item.data-v-f10f2746 {
+.comment .comment_list .comment_item.data-v-4f6db83c {
   border-bottom: 15rpx solid #eee;
 }
-.comment .comment_list .comment_item .comment_user.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user.data-v-4f6db83c {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
     padding: 20rpx 0;
 }
-.comment .comment_list .comment_item .comment_user .user_icon.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_icon.data-v-4f6db83c {
       width: 15%;
       display: -webkit-box;
       display: -webkit-flex;
@@ -172,43 +172,43 @@
       -webkit-align-items: center;
               align-items: center;
 }
-.comment .comment_list .comment_item .comment_user .user_icon image.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_icon image.data-v-4f6db83c {
         width: 90%;
 }
-.comment .comment_list .comment_item .comment_user .user_name.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_name.data-v-4f6db83c {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
               flex: 1;
 }
-.comment .comment_list .comment_item .comment_user .user_name .user_nickname.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_name .user_nickname.data-v-4f6db83c {
         color: #777;
 }
-.comment .comment_list .comment_item .comment_user .user_name .user_time.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_name .user_time.data-v-4f6db83c {
         color: #ccc;
         font-size: 24rpx;
         padding: 5rpx;
 }
-.comment .comment_list .comment_item .comment_user .user_badge image.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_user .user_badge image.data-v-4f6db83c {
       width: 40rpx;
       height: 40rpx;
 }
-.comment .comment_list .comment_item .comment_desc.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_desc.data-v-4f6db83c {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
     padding: 30rpx 0;
 }
-.comment .comment_list .comment_item .comment_desc .comment_content.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_desc .comment_content.data-v-4f6db83c {
       -webkit-box-flex: 1;
       -webkit-flex: 1;
               flex: 1;
       padding-left: 15%;
       color: #000;
 }
-.comment .comment_list .comment_item .comment_desc .comment_like.data-v-f10f2746 {
+.comment .comment_list .comment_item .comment_desc .comment_like.data-v-4f6db83c {
       text-align: right;
 }
-.download.data-v-f10f2746 {
+.download.data-v-4f6db83c {
   height: 120rpx;
   display: -webkit-box;
   display: -webkit-flex;
@@ -220,7 +220,7 @@
   -webkit-justify-content: center;
           justify-content: center;
 }
-.download .download_btn.data-v-f10f2746 {
+.download .download_btn.data-v-4f6db83c {
     width: 90%;
     height: 80%;
     background-color: #00FFFF;

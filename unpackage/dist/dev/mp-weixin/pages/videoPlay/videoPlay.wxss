@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.video_play image.data-v-6b9f4c53 {
+.video_play image.data-v-871ff850 {
   position: absolute;
   width: 100vw;
   height: 100vh;
@@ -32,7 +32,7 @@
   -webkit-filter: blur(20px);
           filter: blur(20px);
 }
-.video_play .video_tool.data-v-6b9f4c53 {
+.video_play .video_tool.data-v-871ff850 {
   height: 80rpx;
   display: -webkit-box;
   display: -webkit-flex;
@@ -41,23 +41,23 @@
   -webkit-justify-content: flex-end;
           justify-content: flex-end;
 }
-.video_play .video_tool .soundIcon.data-v-6b9f4c53 {
+.video_play .video_tool .soundIcon.data-v-871ff850 {
     width: 80rpx;
 }
-.video_play .video_tool .soundIcon .img1.data-v-6b9f4c53 {
+.video_play .video_tool .soundIcon .img1.data-v-871ff850 {
       width: 100%;
 }
-.video_play .video_tool .shareIcon.data-v-6b9f4c53 {
+.video_play .video_tool .shareIcon.data-v-871ff850 {
     width: 80rpx;
     position: relative;
 }
-.video_play .video_tool .shareIcon button.data-v-6b9f4c53 {
+.video_play .video_tool .shareIcon button.data-v-871ff850 {
       position: absolute;
       width: 100%;
       height: 100%;
       opacity: 0;
 }
-.video_play .video_wrap.data-v-6b9f4c53 {
+.video_play .video_wrap.data-v-871ff850 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -65,11 +65,11 @@
   -webkit-justify-content: center;
           justify-content: center;
 }
-.video_play .video_wrap video.data-v-6b9f4c53 {
+.video_play .video_wrap video.data-v-871ff850 {
     width: 360rpx;
     height: 600rpx;
 }
-.video_play .download.data-v-6b9f4c53 {
+.video_play .download.data-v-871ff850 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -78,7 +78,7 @@
           justify-content: center;
   margin-top: 30rpx;
 }
-.video_play .download .download_btn.data-v-6b9f4c53 {
+.video_play .download .download_btn.data-v-871ff850 {
     width: 360rpx;
     height: 80rpx;
     border-radius: 40rpx;

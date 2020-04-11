@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.segmented-control.data-v-ca155dfa {
+.segmented-control.data-v-f6edb8c4 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -36,7 +36,7 @@
   height: 36px;
   overflow: hidden;
 }
-.segmented-control__item.data-v-ca155dfa {
+.segmented-control__item.data-v-f6edb8c4 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: inline-flex;
@@ -52,27 +52,27 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.segmented-control__item--button.data-v-ca155dfa {
+.segmented-control__item--button.data-v-f6edb8c4 {
   border-style: solid;
   border-top-width: 1px;
   border-bottom-width: 1px;
   border-right-width: 1px;
   border-left-width: 0;
 }
-.segmented-control__item--button--first.data-v-ca155dfa {
+.segmented-control__item--button--first.data-v-f6edb8c4 {
   border-left-width: 1px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-.segmented-control__item--button--last.data-v-ca155dfa {
+.segmented-control__item--button--last.data-v-f6edb8c4 {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
-.segmented-control__item--text.data-v-ca155dfa {
+.segmented-control__item--text.data-v-f6edb8c4 {
   border-bottom-style: solid;
   border-bottom-width: 3px;
 }
-.segmented-control__text.data-v-ca155dfa {
+.segmented-control__text.data-v-f6edb8c4 {
   font-size: 16px;
   line-height: 20px;
   text-align: center;
