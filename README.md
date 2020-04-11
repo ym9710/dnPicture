@@ -2,11 +2,9 @@
   
 
 ##预览图
-
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/home.png" width=30%>
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/category.png" width=30%>
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/imgDetail.png" width=30%>
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video.png" width=30%>
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video.png" width=30%>
-<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video_play.png" width=30%>
-
+<center class="half">
+<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/home.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/category.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/imgDetail.png" width=30%>
+</center>
+<center class="half">
+<img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/video_play.png" width=30%>
+</center>
