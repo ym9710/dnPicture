@@ -1,7 +1,6 @@
-#本项目为微信小程序练手项目，使用uniapp开发。  
+# 本项目为微信小程序练手项目，使用uniapp开发。  
   
-
-##预览图
+## 预览图
 <center class="half">
 <img src="https://github.com/ym9710/dnPicture/blob/master/imgX/home.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/category.png" width=30%><img src="https://github.com/ym9710/dnPicture/blob/master/imgX/imgDetail.png" width=30%>
 </center>
