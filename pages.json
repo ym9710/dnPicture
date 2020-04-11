@@ -1,0 +1,121 @@
+{
+	"pages": [ 
+		{
+		    "path" : "pages/home/home",
+		    "style" : {
+				"navigationBarTitleText":"首页"
+			}
+		},
+		{
+		    "path" : "pages/video/video",
+		    "style" : {
+				"navigationBarTitleText":"视频"
+			}
+		}
+        ,{
+            "path" : "pages/horizontal/horizontal",
+            "style" : {
+				"navigationBarTitleText":"横屏"
+			}
+        }
+        
+        ,{
+            "path" : "pages/search/search",
+            "style" : {
+				"navigationBarTitleText":"搜索"
+			}
+        }
+        ,{
+            "path" : "pages/mine/mine",
+            "style" : {
+				"navigationBarTitleText":"我的"
+			}
+        },
+		{
+		    "path" : "pages/album/album",
+		    "style" : {
+				"navigationBarTitleText":"专辑详情"
+			}
+		},
+		{
+		    "path" : "pages/imgDetail/imgDetail",
+		    "style" : {
+				"navigationBarTitleText":"图片详情"
+			}
+		},
+		{
+		    "path" : "pages/demo/demo",
+		    "style" : {
+				"navigationBarTitleText":"学习触屏事件"
+			}
+		}
+        
+        
+       
+        ,{
+            "path" : "pages/imgCategory/imgCategory",
+            "style" : {
+				"navigationBarTitleText":"图片分类"
+			}
+        }
+        ,{
+            "path" : "pages/video/videoMain/videoMain",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/video/videoCategory/videoCategory",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/videoPlay/videoPlay",
+            "style" : {
+				"navigationBarTitleText":"视频播放"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "找图",
+		"navigationBarBackgroundColor": "#FFFFFF"
+	},
+	"tabBar":{
+		"color":"#007AFF",
+		"selectedColor":"#4CD964",
+		"backgroundColor":"fff",
+		"position":"bottom",
+		"borderStyle":"black",
+		"list":[
+			{
+				"pagePath":"pages/home/home",
+				"text":"首页",
+				"iconPath":"static/icon/shouye.png",
+				"selectedIconPath":"static/icon/shouye_.png"
+			},
+			{
+				"pagePath":"pages/horizontal/horizontal",
+				"text":"横屏",
+				"iconPath":"static/icon/scale_big.png",
+				"selectedIconPath":"static/icon/scale_big_.png"
+			},
+			{
+				"pagePath":"pages/video/video",
+				"text":"视频",
+				"iconPath":"static/icon/shipin.png",
+				"selectedIconPath":"static/icon/shipin_.png"
+			},
+			{
+				"pagePath":"pages/search/search",
+				"text":"搜索",
+				"iconPath":"static/icon/sousuo.png",
+				"selectedIconPath":"static/icon/sousuo_.png"
+			},
+			{
+				"pagePath":"pages/mine/mine",
+				"text":"我的",
+				"iconPath":"static/icon/wode.png",
+				"selectedIconPath":"static/icon/wode_.png"
+			}
+			
+		]
+	}
+}

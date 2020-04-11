@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['touchstart',[['handleTouchstart',['$event']]]],['touchend',[['handleTouchend',['$event']]]]]}}" bindtouchstart="__e" bindtouchend="__e">学习触屏事件</view>
